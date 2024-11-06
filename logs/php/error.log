@@ -1,0 +1,10 @@
+[06-Nov-2024 04:33:57 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php on line 3
+[06-Nov-2024 04:34:16 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php on line 3
+[06-Nov-2024 04:35:01 UTC] PHP Parse error:  syntax error, unexpected token "=" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php on line 6
+[06-Nov-2024 04:35:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "hey" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php:6
+Stack trace:
+#0 /Users/robbiecarragher/Local Sites/university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/robbiecarragher/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/robbieca...')
+#2 /Users/robbiecarragher/Local Sites/university/app/public/index.php(17): require('/Users/robbieca...')
+#3 {main}
+  thrown in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php on line 6
