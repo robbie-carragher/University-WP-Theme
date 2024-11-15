@@ -8,3 +8,8 @@ Stack trace:
 #2 /Users/robbiecarragher/Local Sites/university/app/public/index.php(17): require('/Users/robbieca...')
 #3 {main}
   thrown in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php on line 6
+[15-Nov-2024 21:48:47 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/functions.php on line 6
+[15-Nov-2024 21:48:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/robbiecarragher/Local Sites/university/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[15-Nov-2024 21:48:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/robbiecarragher/Local Sites/university/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[15-Nov-2024 21:50:47 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/functions.php on line 7
+[15-Nov-2024 21:52:48 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/functions.php on line 7
